@@ -2,14 +2,15 @@
 title: Hello Homelab
 date: 2024-02-06 12:00:00 -500
 categories: [homelab, software]
-tags: [servers, ActiveDirectory]
+tags: [servers,activedirectory]
 ---
 
 # Welcome
 
 Hello and welcome to my homelab projects site!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna fermentum iaculis eu non diam. Est ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Egestas sed tempus urna et pharetra pharetra. Nunc scelerisque viverra mauris in aliquam sem. Integer eget aliquet nibh praesent tristique magna sit amet purus. Urna nec tincidunt praesent semper feugiat nibh sed pulvinar. Tellus cras adipiscing enim eu. Arcu cursus vitae congue mauris rhoncus. Id donec ultrices tincidunt arcu non sodales neque. Nisi est sit amet facilisis magna etiam. Elit pellentesque habitant morbi tristique senectus et. Eget magna fermentum iaculis eu non diam phasellus vestibulum.
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna fermentum iaculis eu non diam. Est ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Egestas sed tempus urna et pharetra pharetra. Nunc scelerisque viverra mauris in aliquam sem. Integer eget aliquet nibh praesent tristique magna sit amet purus. Urna nec tincidunt praesent semper feugiat nibh sed pulvinar. Tellus cras adipiscing enim eu. Arcu cursus vitae congue mauris rhoncus. Id donec ultrices tincidunt arcu non sodales neque. Nisi est sit amet facilisis magna etiam. Elit pellentesque habitant morbi tristique senectus et. Eget magna fermentum iaculis eu non diam phasellus vestibulum.
 
 ## Software
 
@@ -34,7 +35,7 @@ on:
     paths-ignore:
         - .gitignore
         - README.md
-        -LICENSE
+        - LICENSE
 ```
 
 ## Photos 
